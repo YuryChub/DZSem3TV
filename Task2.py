@@ -1,8 +1,4 @@
 import numpy as np
-# import pandas as pd
-# from scipy.stats import  binom
-# from scipy.stats import  poisson
-
 
 #2. В первом ящике находится 8 мячей, из которых 5 - белые. Во втором ящике - 12 мячей, 
 # из которых 5 белых.
